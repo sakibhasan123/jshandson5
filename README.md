@@ -1,1 +1,1 @@
-# jshandson5
+# JS Handson 5 (String)
